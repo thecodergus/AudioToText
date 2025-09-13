@@ -6,3 +6,11 @@
 
 /audio_transcription/
 !*/audio_transcription/
+
+*.srt
+*.log
+*.txt
+*.mp3
+*.opus
+*:Zone.Identifier
+env/

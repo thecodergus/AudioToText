@@ -1,0 +1,19 @@
+[project]
+name = "audiototext"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cohere>=5.18.0",
+    "deepl>=1.22.0",
+    "ffmpeg-python>=0.2.0",
+    "numpy==1.26.4",
+    "openai>=1.107.2",
+    "openai-whisper>=20250625",
+    "pydub>=0.25.1",
+    "scipy>=1.15.3",
+    "tensorflow-probability>=0.25.0",
+    "torch>=2.8.0",
+    "typing-extensions>=4.15.0",
+]
