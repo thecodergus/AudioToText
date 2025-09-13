@@ -2,6 +2,10 @@
 
 Transcreve audio para texto
 
+## Requisitos
+
+O gerenciador uv (para python) deve estar instalado
+
 ## Readme original
 
 
